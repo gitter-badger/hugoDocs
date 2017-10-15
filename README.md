@@ -1,5 +1,7 @@
 # Hugo Docs
 
+[![Join the chat at https://gitter.im/hugoDocs/Lobby](https://badges.gitter.im/hugoDocs/Lobby.svg)](https://gitter.im/hugoDocs/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Documentation site for [Hugo](https://github.com/gohugoio/hugo), the very fast and flexible static site generator built with love in GoLang.
 
 ## Contributing
